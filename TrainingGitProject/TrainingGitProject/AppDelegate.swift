@@ -19,6 +19,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         print("C1")
         print("C2")
         print("C4")
+  		print("C3- Added iss53")
+        print("C5")
         return true
     }
 
