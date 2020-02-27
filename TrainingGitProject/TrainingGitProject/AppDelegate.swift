@@ -26,6 +26,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         print("T2")
         print("T3")
         print("NewTest1")
+        print("NewTest2")
         
         return true
     }
