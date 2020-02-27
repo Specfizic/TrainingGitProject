@@ -26,7 +26,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         print("T2")
         print("T3")
         print("featureX1")
-        print("featureX2")
         print("NewTest1")
         print("NewTest2")
         print("NewTest3")
