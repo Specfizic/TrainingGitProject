@@ -28,8 +28,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         print("NewTest1")
         print("NewTest2")
         print("NewTest3")
-        print("NewTest3")
-        print("NewTest2")
 
         
         return true
